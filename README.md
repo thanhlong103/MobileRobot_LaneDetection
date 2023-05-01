@@ -47,16 +47,6 @@ pip install opencv-python numpy matplotlib moviepy
 8. Draw the extrapolated left and right lanes on the input color image.
 9. Combine the input color image with the lane image to obtain the final output.
 
-## Results
-
-Sample input:
-
-![Sample input](https://i.imgur.com/Piybm1m.png)
-
-Sample output:
-
-![Sample output](https://i.imgur.com/d7KuMkM.png)
-
 ## Acknowledgments
 
 This project is inspired by the [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/course/self-driving-car-engineer-nanodegree--nd013) program by Udacity.
